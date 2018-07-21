@@ -5,7 +5,7 @@
  <img src="./images/desktop.JPG" class="desktop" alt="desktop" />
  <img src="./images/phone.JPG" class="phone" alt="phone" />
 
- <p> My name is <strong>Vidya Marpalli</strong> and I am currently taking web development courses at the Seattle Central College. My goal is to become a web developer and get employed in the same stream. I completed my schooling and bachelors in India and previously worked with a huge IT firm based in India before I moved to the US. I have about 3 years of experience in the software industry where i juggled between the roles of the QA and front end developer. But then I had to take a break from workforce for about 4 years. Now that I am ready to get back in the game, I decided that it would be the best for me to refresh my skills and add a few more to my existing skillset. I want to be able to create beautiful, functional websites. </p>
+ <p> My name is <strong>Vidya Marpalli</strong> and I am currently taking web development courses at the Seattle Central College. My goal is to become a web developer and get employed in the same stream. I completed my schooling and bachelors in India and previously worked with a huge IT firm based in India before I moved to the US. I have about 3 years of experience in the software industry where i juggled between the roles of the QA and front end developer. But then I had to take a break from workforce for about 4 years. Now that I am ready to get back in the game, I decided that it would be the best for me to refresh my skills and add a few more to my existing skillset. I want to be able to create beautiful, functional websites that are also user friendly. </p>
 </section>
 <!-- END LEFT COL -->
 
