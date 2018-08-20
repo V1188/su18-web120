@@ -1,0 +1,25 @@
+table {
+    width : 80%;
+    margin: auto;
+    border-collapse: collapse;
+    margin-bottom: 2em;
+    text-align: left;
+
+}
+
+table.client th{
+    width: 25%;
+    font-weight: normal;
+    font-variant: small-caps;
+    
+}
+
+table.audience th{
+    background-color: #000;
+    color: #fff;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 0.5em;
+}
